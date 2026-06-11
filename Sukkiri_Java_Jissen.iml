@@ -6,6 +6,19 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/OneDrive/デスクトップ/javalib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/OneDrive/デスクトップ/javalib" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/OneDrive/デスクトップ/javalib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/OneDrive/デスクトップ/javalib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
