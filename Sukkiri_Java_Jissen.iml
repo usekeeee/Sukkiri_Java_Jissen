@@ -5,6 +5,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/Chap5" />
       <excludeFolder url="file://$MODULE_DIR$/src/Chap7" />
       <excludeFolder url="file://$MODULE_DIR$/src/Chap8" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Chap15_quiz" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Chap16" />
     </content>
   </component>
 </module>
